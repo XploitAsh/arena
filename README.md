@@ -42,7 +42,7 @@ rm -rf ~/venv
 
 ---
 
-🎯 **Supported Platforms:** 
+🎯 **Supported Platforms:** <br>
 
 `✅ Ubuntu` 
 `✅ Debian`
