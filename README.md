@@ -1,4 +1,4 @@
-**# 🐍 Auto-Activate Python venv in Bash, Zsh & Oh My Zsh
+# 🐍 Auto-Activate Python venv in Bash, Zsh & Oh My Zsh
 
 🔹 This script **automatically activates a Python virtual environment (venv)** in every new terminal session.  
 🔹 Supports **Bash, Zsh, Fish**, and **Oh My Zsh** on **Ubuntu, Kali, Debian, Arch, and macOS**.  
