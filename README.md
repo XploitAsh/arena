@@ -48,7 +48,7 @@ rm -rf ~/venv
 `✅ Debian` <br>
 `✅ Kali Linux` <br>
 `✅ Arch Linux` <br>
-`✅ Manjaro` <br>
+`✅ Parrot` <br>
 `✅ macOS (with Python3 installed)`  <br>
 
 📜 **License:** This script is **open-source** and available under the **MIT License**.
