@@ -19,8 +19,13 @@
 ## 🔹 How to Install
 ### **1️⃣ Clone the Repository**
 ```bash
- `git clone https://github.com/YOUR-USERNAME/auto-venv-activation.git && cd auto-venv-activation` → **Make the Script Executable:** `chmod +x setup_venv.sh` → **Run the Script:** `./setup_venv.sh`
+ git clone https://github.com/YOUR-USERNAME/auto-venv-activation.git && cd auto-venv-activation
 ```
+**Make the Script Executable:**
+```chmod +x setup_venv.sh```
+**Run the Script:** 
+```./setup_venv.sh```
+
 
 ✅ **Done!** Now, every time you open a new terminal, your Python virtual environment will be **automatically activated**. 🎉  
 
