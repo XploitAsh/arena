@@ -42,7 +42,14 @@ rm -rf ~/venv
 
 ---
 
-🎯 **Supported Platforms:** `✅ Ubuntu` `✅ Debian` `✅ Kali Linux` `✅ Arch Linux` `✅ Manjaro` `✅ macOS (with Python3 installed)`  
+🎯 **Supported Platforms:** 
+
+`✅ Ubuntu` 
+`✅ Debian`
+`✅ Kali Linux` 
+`✅ Arch Linux` 
+`✅ Manjaro` 
+`✅ macOS (with Python3 installed)`  
 
 📜 **License:** This script is **open-source** and available under the **MIT License**.
 
