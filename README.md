@@ -26,7 +26,7 @@
 **Run the Script:** 
 ```./setup_venv.sh```
 
-
+---
 ✅ **Done!** Now, every time you open a new terminal, your Python virtual environment will be **automatically activated**. 🎉  
 
 🛠️ **How It Works** → Detects your shell (**Bash, Zsh, Fish, or Oh My Zsh**) → Checks if **Python3 is installed** (installs if missing) → Creates a **virtual environment (`venv`) in `~/venv`** if it doesn’t exist → Modifies **shell config (`.bashrc`, `.zshrc`, or `config.fish`)** to: ✅ **Auto-activate `venv`** ✅ Set **venv's Python and Pip as default** → Handles **Oh My Zsh conflicts** → Applies changes **immediately** (no need to restart).  
